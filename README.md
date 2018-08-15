@@ -2,12 +2,12 @@
 
 **Welcome!**
 
-This is a sample project undertaken in the _3rd Module_ of my _Coding Bootcamp_ with the **_Code Institute_**.
+This is a sample project undertaken in the **_3rd Module_** of my **_Coding Bootcamp_** with the **_Code Institute_**.
 
 It is a website that outlines all the facilities and tools that are to be integrated throughout the full course.
 _________________
 
-It is a **_3-page interactive website_** which displays the various technologies utilised in the different sections of the coursework. The interface of each page consists of a **__navigation bar__** along the top, as well as the titles and logos of each of the technologies. These are **__clickable hyperlinks__** which when activated, take the user to a dedicated wikipedia page that describes that particular technology.
+It is a **_3-page interactive website_** which displays the various technologies utilised in the different sections of the coursework. The interface of each page consists of a **_navigation bar_** along the top, as well as the titles and logos of each of the technologies. These are **_clickable hyperlinks_** which when activated, take the user to a dedicated wikipedia page that describes that particular technology.
 
 This is a resource which can be used throughout the course to solidify your understanding of the various technologies. So far, we have explored the worlds of:
 
